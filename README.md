@@ -1,0 +1,1 @@
+# yourls-disable-new-urls
